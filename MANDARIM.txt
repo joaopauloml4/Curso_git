@@ -1,0 +1,7 @@
+SAUDAÇÕES:
+    você. : 你 (Nǐ)
+    olá. : 你好 (Nǐ hǎo)
+    recente. nestes dia. : 最近 (Zuìjìn)
+    marcador perguntativo. interrogação. : 嗎 (Ma)
+    "você está bem?". : 你好嗎 (Nǐ hǎo ma)
+    "como você está ultimamente?" : 最近你好嗎 (Zuìjìn Nǐ hǎo Ma)
